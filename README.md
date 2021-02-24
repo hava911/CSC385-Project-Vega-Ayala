@@ -9,7 +9,11 @@ as well as different categories for users to narrow their search.
 Users will be able to sort the results based on price and brand.
 
 Items could be added to a shpping cart page with the user's chosen size.
+Once on the cart, users should be able to modify the cart by removing unwanted items.
+A wishlist is to be implemented as well and users will be able to move items from it to the cart or to remove any item from it.
 I want to implement a checkout option that can enable the users to pay with PayPal.
+An email will be sent to the user confirming the transaction.
+The owner if the website will be getting a notification via email of any orders made.
 
 Aesthetically, the goal is forn the website to look alive and not boring.
 
