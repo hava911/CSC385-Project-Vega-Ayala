@@ -1,0 +1,14 @@
+#Project: Clothing Website
+#Professor: Dr. Schwesinger
+#Course: CSC 385
+#File Name: .htaccess
+#Purpose: To re-route users to the https version of the website.
+#Source: https://help.dreamhost.com/hc/en-us/articles/215747758-Force-your-site-to-load-securely-with-an-htaccess-file
+
+
+RewriteEngine On 
+RewriteCond %{HTTPS} !on 
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$ 
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$ 
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+DirectoryIndex index.php
