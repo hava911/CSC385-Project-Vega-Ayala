@@ -3,3 +3,12 @@ Weekly Progress Log
 2021-02-22  Hector Vega Ayala  hvega063@live.kutztown.edu
 
 *Index.php is created. It includes header.html which has a simple menu. Not yet finished.
+
+2021-03-01
+
+*View.php is created with 3 products that are hard coded but not yet pulled from any database. 
+*slide.css is created so that a user can hover over a product to see a form where they can choose size and quantity, add notes, and there's an add to cart button that is non-functional still.
+*index.css is created for styling all the pages on the website.
+*header.html is modified with a menu out of which only Home and Produts are functional.
+*footer.html is created and for now it just includes a way to contact me by email.
+
