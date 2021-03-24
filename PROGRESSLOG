@@ -16,5 +16,6 @@ Weekly Progress Log
 *Created database to store product items and their attributes.
 *View.php now displays the products from the database instead of being hardcoded like they were previously.
 there is only one product as I am trying to come up with a way to display the colors available for a particular product.
-
+*Created categories.html and categories.css to provide a way for users to click a button and get displayed items in the categories they are intrested on
+such as Men, Women, and Summer. As of now, the buttons do not do anything.
 
