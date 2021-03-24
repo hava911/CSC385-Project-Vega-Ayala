@@ -12,3 +12,9 @@ Weekly Progress Log
 *header.html is modified with a menu out of which only Home and Produts are functional.
 *footer.html is created and for now it just includes a way to contact me by email.
 
+2021-03-24
+*Created database to store product items and their attributes.
+*View.php now displays the products from the database instead of being hardcoded like they were previously.
+there is only one product as I am trying to come up with a way to display the colors available for a particular product.
+
+
