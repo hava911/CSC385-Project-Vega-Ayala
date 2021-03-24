@@ -28,7 +28,7 @@ require_once("header.html");
             
       echo '      <div class="container"> ';
                
-              /* require_once("../categories.html"); */
+               require_once("categories.html"); 
                
        echo '        <h1> Shirts </h1> ';
 
