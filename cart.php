@@ -12,7 +12,7 @@ session_start(); ?>
 
 
 <script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2AiLVc3JjDoQuWgpXgF-XQCQ_aln09z8&libraries=geometry&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=[KEY]&libraries=geometry&callback=initMap">
 </script>
 
 <script
