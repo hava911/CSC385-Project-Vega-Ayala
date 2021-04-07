@@ -22,3 +22,7 @@ such as Men, Women, and Summer. As of now, the buttons do not do anything.
 2021-03-31
 *Created around 50 new items in the database. 
 
+2021-04-07
+*Created a Shopping Cart, cart.php that displays added items with price and tax.
+*Created cart.css
+
