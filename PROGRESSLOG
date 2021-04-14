@@ -26,3 +26,8 @@ such as Men, Women, and Summer. As of now, the buttons do not do anything.
 *Created a Shopping Cart, cart.php that displays added items with price and tax.
 *Created cart.css
 
+2021-04-14
+*Created stockY.php, stockN.php to display products and have the user select which one they want to put in stock or remove from stock.
+*Created stockMod.php, stockModY.php to either remove or add selected product from stock in database.
+*Modified combo.php, men.php, and women.php as the 3 pages to display said category of products and display out of stock when out of stock.
+
