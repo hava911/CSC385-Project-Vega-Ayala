@@ -1,11 +1,3 @@
-<?php
-
-
-$db = mysqli_connect('localhost','hv18624_pizzapal','Reading@10','hv18624_pizzapal');
-$errmsg = $db->connect_error ;
-if ($errmsg != null) echo "Error: $errmsg" ;
-else
-  {
 
 
 <?php
